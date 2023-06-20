@@ -1,0 +1,24 @@
+{
+    "chocolate": [
+        {
+            "id": 1,
+            "brand": "Tex"
+        },
+        {
+            "id": 2,
+            "brand": "Cadbury"
+        },
+        {
+            "id": 3,
+            "brand": "5Star"
+        },
+        {
+            "id": 4,
+            "brand": "Crunchie"
+        },
+        {
+            "id": 5,
+            "brand": "KitKat"
+        }
+    ]
+}
