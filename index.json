@@ -2,23 +2,28 @@
     "chocolate": [
         {
             "id": 1,
-            "brand": "Tex"
+            "brand": "Tex",
+            "price": "R11.99"
         },
         {
             "id": 2,
-            "brand": "Cadbury"
+            "brand": "Cadbury",
+            "price": "R26.90"
         },
         {
             "id": 3,
-            "brand": "5Star"
+            "brand": "5Star",
+            "price": "R12.99"
         },
         {
             "id": 4,
-            "brand": "Crunchie"
+            "brand": "Crunchie",
+            "price": "R12.95"
         },
         {
             "id": 5,
-            "brand": "KitKat"
+            "brand": "KitKat",
+            "price": "R10.99"
         }
     ]
 }
